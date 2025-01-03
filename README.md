@@ -1,3 +1,6 @@
+# Hi, I'm Duong
+An imperfect engineer and designer loves designing and engineering. So why not combine both? I get a lot of enjoyment creating platforms that people will use.
+
 # User Engagement 
 
 Boosted a **75%** app engagement among **1,200+** end-users and businesses with effective UX improvements and achieved a **81%** user growth in under three months, expanding the user base from 550 to **1,000**
