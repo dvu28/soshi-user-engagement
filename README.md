@@ -2,6 +2,8 @@
 
 Boosted a **75%** app engagement among **1,200+** end-users and businesses with effective UX improvements and achieved a **81%** user growth in under three months, expanding the user base from 550 to **1,000**
 
+![my image](https://github.com/dvu28/soshi-user-engagement/blob/84d806eccac4b98213bc4910f493196fa1fd7454/mockrocket-capture.png)
+
 ## Context 
 
 I knew that there was much more potential to be discovered on how to make the app more engaging. I also wanted to target businesses, which would also bring forth engagement from customers of those businesses...allowing us more users as well. So, my job was to discover more of what each user's ideal engagement is on the app and how we can allow businesses to benefit from our app. 
