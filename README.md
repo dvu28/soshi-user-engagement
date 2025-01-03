@@ -10,7 +10,7 @@ I knew that there was much more potential to be discovered on how to make the ap
 
 The idea is to ideate new features for more engagement. I conducted contextual inquiry interviews to get background knowledge of why users are on the app in the first place. Find a possible root. By doing so, this process gave me a broad idea of our users. I also analyzed our users' time spent on the app throughout user database since we log those kinds of data. For businesses, I thought it would be a good idea to interview local businesses that was part of our Universities Farmer's Market. 
 
-## Post Interviews and Insights :bulb: 
+## Post Interviews and Insights
 
 ### My discovery led to 3 things: 
 
