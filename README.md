@@ -46,6 +46,7 @@ The links below are Figma files showcasing all of the raw ideated designs. Check
 
 Achieved 81% user growth in under three months, expanding the user base from 550 to 1,000. This growth also included customers of businesses that became users of the app. Being partnered with our local businesses helped them and us grow. Our user base grew thanks to their customers, and their businesses flooded with visiting customers through the app. 
 
+## Conclusion
 The addition of "Links" allowed businesses to direct their customers to different areas of their sites which was very efficient to them.
 
 The addition of "Groups" as a new feature for users allowed clubs, professors, and residential halls to have a way of centralizing everyone into one group. Now anyone within that group can view other people's profile, making way more efficient to share one another's socials. And not to mention, more this adds more engagement to the app.
