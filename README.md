@@ -53,3 +53,6 @@ The addition of "Links" allowed businesses to direct their customers to differen
 The addition of "Groups" as a new feature for users allowed clubs, professors, and residential halls to have a way of centralizing everyone into one group. Now anyone within that group can view other people's profile, making way more efficient to share one another's socials. And not to mention, more this adds more engagement to the app.
 
 And the addition of "Soshi Bolts" offered users a way to keep on coming back to the app. This was a system the lets users gain more "Botls" the more friends they added.
+
+## Addtional Materials
+https://swoledevs.wixsite.com/soshi
