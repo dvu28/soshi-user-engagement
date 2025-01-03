@@ -41,7 +41,7 @@ The links below are Figma files showcasing all of the raw ideated designs. Check
 - https://www.figma.com/design/Y7dYcSbkMpyDrsTtYGH3tp/Register-and-Log-in-screen?node-id=0-1&p=f&t=4GY0CEGQC4mLklG9-0 
 - https://www.figma.com/design/WcmVkGzdbzvB7elsrmfBUV/Soshi-Friends%2FGroup%2C-Own-Profile%2C-and-other?node-id=248-142&p=f&t=Kvy2rvXhhoC5YfYw-0
 
-  ![my image](https://github.com/dvu28/soshi-user-engagement/blob/0a9651a6b21492a72d808140841c3c2d8c65a496/Screenshot%202025-01-03%20103810.png)
+  ![my image](https://github.com/dvu28/soshi-user-engagement/blob/de3e8d499e70ac604a7448f68d05f3db58b6c33b/Screenshot%202025-01-03%20104310.png)
 
 ## Results 
 
