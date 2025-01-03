@@ -1,10 +1,10 @@
 # User Engagement 
 
-Boosted a 75% app engagement among 1,200+ end-users and businesses with effective UX improvements. 
+Boosted a 75% app engagement among 1,200+ end-users and businesses with effective UX improvements and achieved a 81% user growth in under three months, expanding the user base from 550 to 1,000
 
 ## Context 
 
-Users complained about how there's not much to do on the app but add socials and friend each other. We also want to target businesses which will also bring forth engagement from customers of those businesses. Allowing us more users as well. So, my job was to discover more of what each user's ideal engagement is on the app and how we can allow businesses to benefit from our app. 
+I knew that there was much more potential to be discovered on how to make the app more engaging. I also wanted to target businesses, which would also bring forth engagement from customers of those businesses...allowing us more users as well. So, my job was to discover more of what each user's ideal engagement is on the app and how we can allow businesses to benefit from our app. 
 
 ## Method 
 
@@ -40,4 +40,8 @@ The links below are Figma files showcasing all of the raw ideated designs. Check
 
 ## Results 
 
-Achieved 81% user growth in under three months, expanding the user base from 550 to 1,000. This growth also included customers of businesses that became users of the app. Being partnered with our local businesses helped them and us grow. Our user base grew thanks to their customers, and their businesses flooded with visiting customers through the app. The addition of links allowed businesses to direct their customers to different areas of their sites. Because of adding "Groups" as a new feature for users' clubs, classes, and residential halls were able to take advantage of our platform and centralize everyone into one group.
+Achieved 81% user growth in under three months, expanding the user base from 550 to 1,000. This growth also included customers of businesses that became users of the app. Being partnered with our local businesses helped them and us grow. Our user base grew thanks to their customers, and their businesses flooded with visiting customers through the app. 
+
+The addition of adding "Links" allowed businesses to direct their customers to different areas of their sites which was very efficient to them.
+
+The addition of adding "Groups" as a new feature for users allowed clubs, professors, and residential halls to have a way of centralizing everyone into one group. Now anyone within that group can view other people's profile, making way more efficient to share one another's socials. And not to mention, more this adds more engagement to the app.
