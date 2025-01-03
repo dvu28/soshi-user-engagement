@@ -1,6 +1,6 @@
 # User Engagement 
 
-Boosted a 75% app engagement among 1,200+ end-users and businesses with effective UX improvements and achieved a 81% user growth in under three months, expanding the user base from 550 to 1,000
+Boosted a **75%** app engagement among **1,200+** end-users and businesses with effective UX improvements and achieved a **81%** user growth in under three months, expanding the user base from 550 to **1,000**
 
 ## Context 
 
@@ -43,7 +43,7 @@ The links below are Figma files showcasing all of the raw ideated designs. Check
 
 ## Results 
 
-Achieved 81% user growth in under three months, expanding the user base from 550 to 1,000. This growth also included customers of businesses that became users of the app. Being partnered with our local businesses helped them and us grow. Our user base grew thanks to their customers, and their businesses flooded with visiting customers through the app. 
+Achieved **81%** user growth in under three months, expanding the user base from 550 to 1,000. This growth also included customers of businesses that became users of the app. Being partnered with our local businesses helped them and us grow. Our user base grew thanks to their customers, and their businesses flooded with visiting customers through the app. 
 
 ## Conclusion
 The addition of "Links" allowed businesses to direct their customers to different areas of their sites which was very efficient to them.
