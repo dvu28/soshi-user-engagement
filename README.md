@@ -54,5 +54,5 @@ The addition of "Groups" as a new feature for users allowed clubs, professors, a
 
 And the addition of "Soshi Bolts" offered users a way to keep on coming back to the app. This was a system the lets users gain more "Botls" the more friends they added.
 
-## Addtional Materials
+## Additional Materials
 https://swoledevs.wixsite.com/soshi
