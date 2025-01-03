@@ -28,7 +28,9 @@ The idea is to ideate new features for more engagement. I conducted contextual i
 
 - "Outside of my close friends, it is hard to reach and connect with either mutuals or someone I just had become met with because I don't have a way to find their social media in one place." 
 
-- "A lot of the time, connecting and networking with someone in the same club or org is hard. You would think it's easy because you can be in contact with each other. However, I have seen so many people in my club asking each other 'who's this person and what's this person @' even though they're all in the same circle. 
+- "A lot of the time, connecting and networking with someone in the same club or org is hard. You would think it's easy because you can be in contact with each other. However, I have seen so many people in my club asking each other 'who's this person and what's this person @' even though they're all in the same circle.
+
+![my image](https://github.com/dvu28/soshi-user-engagement/blob/ba93d0552b08cf098a717ee24db785429139c484/Screenshot%202025-01-03%20085907.png)
 
 ## Ideated Designs 
 
