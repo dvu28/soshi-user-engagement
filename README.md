@@ -1,5 +1,5 @@
 # Hi, I'm Duong
-An imperfect engineer and designer who loves designing and engineering. So why not combine both? I get a lot of enjoyment creating platforms that people will use.
+An imperfect designer and engineer who loves to...design and engineer. So why not combine both? I get a lot of enjoyment creating platforms that people will use.
 
 # User Engagement 
 
